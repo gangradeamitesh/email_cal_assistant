@@ -2,9 +2,9 @@
 
 A simple AI assistant that helps you manage emails and calendar events using natural language.
 
-## Demo
+## About
 
-https://github.com/yourusername/Assist_Me/assets/your-user-id/demo-video.mp4
+This AI-powered personal assistant is designed to streamline your email and calendar management through natural language interactions. It leverages the power of Ollama's local AI models to understand and process your requests, while integrating with Google's Gmail and Calendar APIs to perform actions. The assistant can help you stay organized by reading emails, scheduling meetings, and providing quick summaries of your communications, all through simple conversational commands.
 
 ## Features
 
